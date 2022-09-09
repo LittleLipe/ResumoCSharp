@@ -1,0 +1,15 @@
+C:\Users\Felipe\ResumoCSharp-2\Syntax\bin\Debug\net6.0\Syntax.exe
+C:\Users\Felipe\ResumoCSharp-2\Syntax\bin\Debug\net6.0\Syntax.deps.json
+C:\Users\Felipe\ResumoCSharp-2\Syntax\bin\Debug\net6.0\Syntax.runtimeconfig.json
+C:\Users\Felipe\ResumoCSharp-2\Syntax\bin\Debug\net6.0\Syntax.dll
+C:\Users\Felipe\ResumoCSharp-2\Syntax\bin\Debug\net6.0\Syntax.pdb
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.csproj.AssemblyReference.cache
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.AssemblyInfoInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.AssemblyInfo.cs
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.dll
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\refint\Syntax.dll
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.pdb
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\Syntax.genruntimeconfig.cache
+C:\Users\Felipe\ResumoCSharp-2\Syntax\obj\Debug\net6.0\ref\Syntax.dll
