@@ -1,0 +1,15 @@
+C:\Users\Felipe\ResumoCSharp-2\For Loop\bin\Debug\net6.0\For Loop.exe
+C:\Users\Felipe\ResumoCSharp-2\For Loop\bin\Debug\net6.0\For Loop.deps.json
+C:\Users\Felipe\ResumoCSharp-2\For Loop\bin\Debug\net6.0\For Loop.runtimeconfig.json
+C:\Users\Felipe\ResumoCSharp-2\For Loop\bin\Debug\net6.0\For Loop.dll
+C:\Users\Felipe\ResumoCSharp-2\For Loop\bin\Debug\net6.0\For Loop.pdb
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.csproj.AssemblyReference.cache
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.AssemblyInfoInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.AssemblyInfo.cs
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.dll
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\refint\For Loop.dll
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.pdb
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\For Loop.genruntimeconfig.cache
+C:\Users\Felipe\ResumoCSharp-2\For Loop\obj\Debug\net6.0\ref\For Loop.dll

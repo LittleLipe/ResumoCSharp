@@ -1,0 +1,15 @@
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\bin\Debug\net6.0\Break e Continue.exe
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\bin\Debug\net6.0\Break e Continue.deps.json
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\bin\Debug\net6.0\Break e Continue.runtimeconfig.json
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\bin\Debug\net6.0\Break e Continue.dll
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\bin\Debug\net6.0\Break e Continue.pdb
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.csproj.AssemblyReference.cache
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.AssemblyInfoInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.AssemblyInfo.cs
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.dll
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\refint\Break e Continue.dll
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.pdb
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\Break e Continue.genruntimeconfig.cache
+C:\Users\Felipe\ResumoCSharp-2\Break e Continue\obj\Debug\net6.0\ref\Break e Continue.dll
