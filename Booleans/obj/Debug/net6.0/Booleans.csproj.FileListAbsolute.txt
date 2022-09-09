@@ -1,0 +1,15 @@
+C:\Users\Felipe\ResumoCSharp-2\Booleans\bin\Debug\net6.0\Booleans.exe
+C:\Users\Felipe\ResumoCSharp-2\Booleans\bin\Debug\net6.0\Booleans.deps.json
+C:\Users\Felipe\ResumoCSharp-2\Booleans\bin\Debug\net6.0\Booleans.runtimeconfig.json
+C:\Users\Felipe\ResumoCSharp-2\Booleans\bin\Debug\net6.0\Booleans.dll
+C:\Users\Felipe\ResumoCSharp-2\Booleans\bin\Debug\net6.0\Booleans.pdb
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.csproj.AssemblyReference.cache
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.AssemblyInfoInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.AssemblyInfo.cs
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.dll
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\refint\Booleans.dll
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.pdb
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\Booleans.genruntimeconfig.cache
+C:\Users\Felipe\ResumoCSharp-2\Booleans\obj\Debug\net6.0\ref\Booleans.dll
