@@ -1,0 +1,15 @@
+C:\Users\Felipe\ResumoCSharp-2\Output\bin\Debug\net6.0\Output.exe
+C:\Users\Felipe\ResumoCSharp-2\Output\bin\Debug\net6.0\Output.deps.json
+C:\Users\Felipe\ResumoCSharp-2\Output\bin\Debug\net6.0\Output.runtimeconfig.json
+C:\Users\Felipe\ResumoCSharp-2\Output\bin\Debug\net6.0\Output.dll
+C:\Users\Felipe\ResumoCSharp-2\Output\bin\Debug\net6.0\Output.pdb
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.csproj.AssemblyReference.cache
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.AssemblyInfoInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.AssemblyInfo.cs
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.dll
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\refint\Output.dll
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.pdb
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\Output.genruntimeconfig.cache
+C:\Users\Felipe\ResumoCSharp-2\Output\obj\Debug\net6.0\ref\Output.dll
